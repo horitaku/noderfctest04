@@ -1,0 +1,21 @@
+
+**** Log file opened at 2021-02-13 23:36:38.244307 UTC+09:00 ( (W)), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: C:\Users\rihow\WebstormProjects\noderfc02, Program: node
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 158 Step 13), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-FK2MLM8, IP address: 192.168.86.24, IPv6 address: fe80::b8e7:577e:ac89:7858
+
+2021-02-13 23:36:38.244464 [13000] >> Info entry
+	Did find config file C:\Users\rihow\WebstormProjects\noderfc02\sapnwrfc.ini.
+
+**** Log file opened at 2021-02-13 23:45:56.255081 UTC+09:00 ( (W)), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: C:\Users\rihow\WebstormProjects\noderfc02, Program: node
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 158 Step 13), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-FK2MLM8, IP address: 192.168.86.24, IPv6 address: fe80::b8e7:577e:ac89:7858
+
+2021-02-13 23:45:56.263401 [07208] >> Error entry
+	[Handle: 2689766931888	ConvID: 32643965	Target: 127.0.0.1	SysID: 	SysNr: 00	User: DEVELOPER	Mandant: 001	Language: E	Codepage: 4103]
+	RfcCommunicationException: Return Value: 10001, Code: RFC_COMMUNICATION_FAILURE, Message: Timeout while opening an RFC connection.
